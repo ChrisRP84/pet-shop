@@ -1,0 +1,6 @@
+Algumas das principais funcionalidades:
+
+- Realizar o login (opção Entre ou cadastre-se)
+- Navegar entre as páginas visualizando produtos e serviços
+- Uma vez logado, pode-se cadastrar um pet (ir na seção perfil pela opção "Bem vindo Usuário")
+- Realizar um agendamento de serviço pela tela de serviços.
